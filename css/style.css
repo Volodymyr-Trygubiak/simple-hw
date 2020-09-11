@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  width: 760px;
+  margin: 0 auto;
+
+}
+.header-title {
+  background-color: #a62a2a;
+  color: #fff;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.main {
+  margin: 20px 0;
+}
+
+a {
+  text-decoration: none;
+}
+.cars {
+  text-align: center;
+  margin: 15px;
+
+}
+.car {
+  display: inline-block;
+  text-align: center;
+  border: #000 dashed 3px;
+}
+
+.footer-text {
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+}
